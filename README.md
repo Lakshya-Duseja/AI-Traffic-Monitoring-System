@@ -4,7 +4,7 @@ A college-project-grade traffic enforcement system with YOLOv8 detection, DeepSO
 real-time violation detection, SQLite logging, PDF challan generation, and a Streamlit dashboard.
 
 ---
-# worked on this project with Lakshya Chowdhry 
+### worked on this project with Lakshya Chowdhry 
 ## 📁 Project Structure
 
 ```
